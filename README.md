@@ -1,5 +1,6 @@
 
 ## Welcome! 👋
+https://ericksla7.github.io/qr-code-component/
 
 Thanks for checking out this front-end coding challenge.
 
